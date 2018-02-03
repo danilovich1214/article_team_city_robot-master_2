@@ -1,0 +1,14 @@
+==============================================================================
+Tests :: Test demo REST service                                               
+==============================================================================
+Auth Request Positive :: Check status_code from request after logi... | PASS |
+------------------------------------------------------------------------------
+Auth Request Negative :: Check status_code from request after logi... | PASS |
+------------------------------------------------------------------------------
+Count Responce Lines :: Check number of lines in stream response i... | PASS |
+------------------------------------------------------------------------------
+Tests :: Test demo REST service                                       | PASS |
+3 critical tests, 3 passed, 0 failed
+3 tests total, 3 passed, 0 failed
+==============================================================================
+Output:  /home/ITRANSITION.CORP/e.danilovich/GitHub/article_team_city_robot-master/Result/pabot_results/Tests/output.xml
